@@ -158,8 +158,16 @@ This command enables nested virtualization, allowing Proxmox to detect virtualiz
 
    - Log in using `root` and the password you set during installation.
 
+
+   ![image](https://github.com/user-attachments/assets/88d79b3e-c1c0-4c7f-a61f-f84cd287828d)
+
+
 2. **Verify Configuration**:
    - Once logged in, you can begin configuring Proxmox, creating virtual machines, or exploring its features.
+   
+
+   ![image](https://github.com/user-attachments/assets/8660c27d-63be-47cd-8c14-9070aecc7b6f)
+
 
 ---
 
