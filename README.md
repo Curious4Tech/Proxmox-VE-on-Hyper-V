@@ -102,8 +102,11 @@ This guide provides step-by-step instructions to set up a Proxmox Virtual Enviro
 
 
      ![image](https://github.com/user-attachments/assets/44f2cd46-e2e8-411b-a5c5-6fdec84286e0)
+
      
+
 3.**Nested Virtualization**
+
 If Proxmox VE requires hardware virtualization support (Intel VT-x or AMD-V), which isn’t currently enabled or detected.
 
 ![image](https://github.com/user-attachments/assets/491df2e0-f634-43b1-87ee-3aaa26d20d03)
