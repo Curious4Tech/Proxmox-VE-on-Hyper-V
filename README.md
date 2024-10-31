@@ -52,6 +52,8 @@ This guide provides step-by-step instructions to set up a Proxmox Virtual Enviro
 
 6. ### Connect the Virtual Hard Disk
    - Create a **virtual hard disk** with at least **32 GB** of storage for Proxmox VE.
+   - **Choose a location** to store the VM files or accept the default location.
+
 
    
      ![image](https://github.com/user-attachments/assets/ba260e9d-b38c-4688-ae90-500021329b04)
