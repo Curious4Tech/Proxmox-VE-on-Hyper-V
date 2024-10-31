@@ -26,8 +26,7 @@ This guide provides step-by-step instructions to set up a Proxmox Virtual Enviro
 
      ![image](https://github.com/user-attachments/assets/c5695371-82eb-48e0-880f-65562f45b94f)
 
-   - **Choose a location** to store the VM files or accept the default location.
-
+ 
 3. ### Specify Generation
    - Select **Generation 1** (recommended for compatibility) and click **Next**.
 
