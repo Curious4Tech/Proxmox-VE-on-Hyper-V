@@ -17,7 +17,13 @@ This guide provides step-by-step instructions to set up a Proxmox Virtual Enviro
 
 2. ### Create a New Virtual Machine
    - In Hyper-V Manager, click on **Action > New > Virtual Machine**.
-   - **Name the VM** (e.g., "Proxmox VE").
+
+     ![image](https://github.com/user-attachments/assets/620f53d3-78ff-42b9-a192-f5ca7556e5fa)
+
+   - **Name the VM** (e.g., "Proxmox VE Server").
+
+     ![image](https://github.com/user-attachments/assets/c5695371-82eb-48e0-880f-65562f45b94f)
+
    - **Choose a location** to store the VM files or accept the default location.
 
 3. ### Specify Generation
